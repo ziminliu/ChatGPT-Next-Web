@@ -12,6 +12,7 @@ import DeleteIcon from "../icons/delete.svg";
 import MaskIcon from "../icons/mask.svg";
 import PluginIcon from "../icons/plugin.svg";
 import DragIcon from "../icons/drag.svg";
+import { getUser } from '../api/logto/user/get-user';
 
 import Locale from "../locales";
 
